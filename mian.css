@@ -1,0 +1,30 @@
+h2{
+    background:teal
+}
+.blue-text{
+    color:rgb(130, 204, 238);
+}
+.orange{
+    color:firebrick;
+}
+a{
+    text-decoration: none !important;
+}
+.alert-success:hover{
+    background: red;
+    color: white;
+    transition: 2s;
+}
+.water:hover{
+    color: peru;
+    background: whitesmoke;
+    transition: 2s;
+}
+.water{
+    front-size:50px;
+}
+body{
+    background: #D1913C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFD194, #D1913C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFD194, #D1913C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}    
